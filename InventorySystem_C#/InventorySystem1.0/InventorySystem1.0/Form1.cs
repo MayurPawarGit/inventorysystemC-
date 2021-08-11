@@ -28,6 +28,14 @@ namespace InventorySystem1._0
         {
             Application.Run(new splashscreen());
         }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Control && e.KeyCode.ToString() == "L")
+            {
+                showFrm(new frmLogin(this));
+            }
+        }
         public void closeForm()
         {
             foreach (Form frm in this.MdiChildren)
@@ -37,14 +45,7 @@ namespace InventorySystem1._0
 
         }
 
-        private void Form1_KeyDown(object sender, KeyEventArgs e)
-        {
-            if (e.Control && e.KeyCode.ToString() == "l")
-            {
-                frmLogin lgn = new frmLogin();
-                lgn.Show();
-            }
-        }
+       
         public void enabled_menu()
         {
             ts_ManageUsers.Enabled = true;

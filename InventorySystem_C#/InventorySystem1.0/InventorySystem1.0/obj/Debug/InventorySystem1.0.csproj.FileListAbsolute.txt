@@ -73,8 +73,8 @@ F:\Sem.4\C# Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySy
 F:\Sem.4\C# Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.csproj.CoreCompileInputs.cache
 F:\Sem.4\C# Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.exe
 F:\Sem.4\C# Projects\InventorySystem1.0\InventorySystem1.0\obj\Debug\InventorySystem1.0.pdb
-C:\Users\Shree\Documents\Visual Studio 2012\Projects\inventory_system_in_c_with_source_code\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\bin\Debug\InventorySystem1.0.exe.config
 C:\Users\Shree\Documents\Visual Studio 2012\Projects\inventory_system_in_c_with_source_code\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\bin\Debug\Form1.resx
+C:\Users\Shree\Documents\Visual Studio 2012\Projects\inventory_system_in_c_with_source_code\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\bin\Debug\InventorySystem1.0.exe.config
 C:\Users\Shree\Documents\Visual Studio 2012\Projects\inventory_system_in_c_with_source_code\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\bin\Debug\InventorySystem1.0.exe
 C:\Users\Shree\Documents\Visual Studio 2012\Projects\inventory_system_in_c_with_source_code\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\bin\Debug\InventorySystem1.0.pdb
 C:\Users\Shree\Documents\Visual Studio 2012\Projects\inventory_system_in_c_with_source_code\InventorySystem_C#\InventorySystem1.0\InventorySystem1.0\bin\Debug\mscorlib.dll
